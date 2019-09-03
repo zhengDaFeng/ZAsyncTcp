@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp\bin\Debug\ZAsyncTcp.dll
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp\bin\Debug\ZAsyncTcp.pdb
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp\obj\Debug\ZAsyncTcp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp\obj\Debug\ZAsyncTcp.dll
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp\obj\Debug\ZAsyncTcp.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\obj\Debug\ZAsyncTcp.Test.Winform.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\obj\Debug\ZAsyncTcp.Test.Winform.Form1.resources
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\obj\Debug\ZAsyncTcp.Test.Winform.Properties.Resources.resources
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\obj\Debug\ZAsyncTcp.Test.Winform.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\obj\Debug\ZAsyncTcp.Test.Winform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\bin\Debug\ZAsyncTcp.Test.Winform.exe.config
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\bin\Debug\ZAsyncTcp.Test.Winform.exe
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\bin\Debug\ZAsyncTcp.Test.Winform.pdb
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\bin\Debug\ZAsyncTcp.dll
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\bin\Debug\ZAsyncTcp.pdb
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\obj\Debug\ZAsyncTcp.Test.Winform.csproj.CopyComplete
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\obj\Debug\ZAsyncTcp.Test.Winform.exe
+C:\Users\Admin\source\repos\ZAsyncTcp\ZAsyncTcp.Test.Winform\obj\Debug\ZAsyncTcp.Test.Winform.pdb
